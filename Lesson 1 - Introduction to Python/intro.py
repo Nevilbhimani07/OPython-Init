@@ -41,6 +41,8 @@ y = "John"
 print(x)
 print(y)
 
+#Output for x will be 5 and for y will be John
+
 # String Operations
 a = "Hello"
 b = "World"
